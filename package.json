@@ -1,0 +1,10 @@
+{
+  "name": "regex-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gustavo Bittencourt Satheler <gustavosatheler@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    ".": "node ."
+  }
+}
